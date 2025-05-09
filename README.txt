@@ -8,4 +8,4 @@ sudo nmap -v -sT 10.1.130.48
 
 sudo nmap -v -A -sV 10.1.130.48
 
-sudo nmap -v -A www.google.com
+sudo nmap -v -A www.google.com 
